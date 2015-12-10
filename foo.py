@@ -1559,6 +1559,8 @@ et dapibus.
 Foo.
 
 Bar.
+
+Baz.
 """
 
 x = 1 + "2"
