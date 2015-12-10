@@ -857,6 +857,8 @@ luctus et ultrices posuere cubilia Curae; Praesent ultricies fringilla ipsum
 et dapibus.
 
 Foo.
+
+Bar.
 """
 
 x = 1 + "2"
