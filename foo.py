@@ -46,3 +46,5 @@ et dapibus.
 
 Foo.
 """
+
+x = 1 + "2"
